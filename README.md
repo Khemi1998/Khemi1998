@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Khemi ☺️
 
-#I am a Full-Stack Junior Software Engineer.#
+# I am a Full-Stack Junior Software Engineer. #
 
 <p>I enjoying learning and applying innovative solutions to software problems</p>
 
