@@ -24,7 +24,7 @@
  </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Khemi1998&show_icons=true&count_private=true&theme=dracula" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Khemi1998&show_icons=true&count_private=true&theme=cobalt" width="350"></a>
 </p>
 <!--
 **Khemi1998/Khemi1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
