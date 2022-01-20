@@ -17,9 +17,9 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-java-orange" />
-    <img src="https://img.shields.io/badge/-springboot-green" />
-    <img src="https://img.shields.io/badge/-firebase-red" />
+    <img src="https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-springboot-green?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/-firebase-red?style=for-the-badge&logo=firebase&logoColor=white" />
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
  </p>
 
