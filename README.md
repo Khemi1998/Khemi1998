@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Khemi ☺️ 
 
-### I am a Full-Stack Junior Software Engineer 💻
+## I am a Full-Stack Junior Software Engineer 💻
 
 ### Currently I am working on:
 <li>Events (Full-Stack) (please see event-front-end repository)</li>
