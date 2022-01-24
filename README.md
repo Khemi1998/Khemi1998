@@ -2,7 +2,7 @@
 
 ### I am a Full-Stack Junior Software Engineer 💻
 
-<p>I enjoying learning and applying innovative solutions to software problems 👍</p>
+<p>I enjoy learning and applying innovative solutions to software problems 👍</p>
 
 <p>When I am not coding I am probably:</p>
 <li> 🎸 Trying to find new music to listen to</li>
