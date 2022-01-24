@@ -6,7 +6,6 @@
 <li> 🎸 Trying to find new music to listen to</li>
 <li> 🌯 Finding a new resturant to try out</li>
 <li> 🏊‍♀️ Swimming</li>
-<li> 😴 or sleeping </li>
 
 ### Currently I am working on:
 <li>Events (Full-Stack) (please see event-front-end repository)</li>
