@@ -1,12 +1,7 @@
 # Hi there 👋 I'm Khemi ☺️ 
 
 ### I am a Full-Stack Junior Software Engineer 💻
-<!-- 
-<p>When I am not coding I am probably:</p>
-<li> 🎸 Trying to find new music to listen to</li>
-<li> 🌯 Finding a new resturant to try out</li>
-<li> 🏊‍♀️ Swimming</li>
- -->
+
 ### Currently I am working on:
 <li>Events (Full-Stack) (please see event-front-end repository)</li>
 
@@ -32,6 +27,11 @@
     <img src="https://img.shields.io/badge/-firebase-red?style=for-the-badge&logo=firebase&logoColor=white" />
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
  </p>
+ 
+<p>When I am not coding I am probably:</p>
+<li> 🎸 Trying to find new music to listen to</li>
+<li> 🌯 Finding a new resturant to try out</li>
+<li> 🏊‍♀️ or Swimming</li>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Khemi1998&show_icons=true&count_private=true&theme=cobalt" width="350"></a>
