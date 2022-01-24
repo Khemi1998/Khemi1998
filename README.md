@@ -24,14 +24,15 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-java-turquoise?style=for-the-badge&logo=java&logoColor=black" />
     <img src="https://img.shields.io/badge/-springboot-green?style=for-the-badge&logo=springboot&logoColor=white" />
-    <img src="https://img.shields.io/badge/-firebase-red?style=for-the-badge&logo=firebase&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/-firebase-red?style=for-the-badge&logo=firebase&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
  </p>
  
 <p>When I am not coding I am probably:</p>
 <li> 🎸 Trying to find new music to listen to</li>
 <li> 🌯 Finding a new resturant to try out</li>
-<li> 🏊‍♀️ or Swimming</li>
+<li> 🏊‍♀️ Swimming</li>
+<li> 😴 or sleeping</li>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Khemi1998&show_icons=true&count_private=true&theme=cobalt" width="350"></a>
