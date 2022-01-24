@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Khemi ☺️ 
 
 ### I am a Full-Stack Junior Software Engineer 💻
-
+<!-- 
 <p>When I am not coding I am probably:</p>
 <li> 🎸 Trying to find new music to listen to</li>
 <li> 🌯 Finding a new resturant to try out</li>
 <li> 🏊‍♀️ Swimming</li>
-
+ -->
 ### Currently I am working on:
 <li>Events (Full-Stack) (please see event-front-end repository)</li>
 
