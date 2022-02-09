@@ -32,7 +32,7 @@
 <li> 🎸 Trying to find new music to listen to</li>
 <li> 🌯 Finding a new resturant to try out</li>
 <li> 🏊‍♀️ Swimming</li>
-<li> 😴 or sleeping</li>
+<li> 👾 or in the arcade</li>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Khemi1998&show_icons=true&count_private=true&theme=cobalt" width="350"></a>
